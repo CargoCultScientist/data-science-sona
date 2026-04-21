@@ -18,7 +18,6 @@ build/
 .ipynb_checkpoints/
 
 # Data (add specific large files here)
-*.csv
 *.xlsx
 *.parquet
 data/
